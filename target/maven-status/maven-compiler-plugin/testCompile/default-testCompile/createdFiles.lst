@@ -1,0 +1,10 @@
+MavenFramework\data\PurchaseOrder$1.class
+MavenFramework\testcomponents\BaseTest$1.class
+MavenFramework\testcomponents\BaseTest.class
+MavenFramework\tests\ErrorValidationTest.class
+MavenFramework\testcomponents\Retry.class
+MavenFramework\data\PurchaseOrder.class
+MavenFramework\tests\StandAloneMeTest.class
+MavenFramework\testcomponents\Listeners.class
+MavenFramework\tests\StandAloneTest.class
+MavenFramework\tests\SubmitOrderTest.class

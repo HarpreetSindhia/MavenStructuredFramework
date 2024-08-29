@@ -1,0 +1,8 @@
+MavenFramework\pageobjects\CheckoutPage.class
+MavenFramework\pageobjects\ProductCataloguePage.class
+MavenFramework\pageobjects\ConfirmationPage.class
+MavenFramework\pageobjects\LandingPage.class
+MavenFramework\resources\ExtentReportNG.class
+MavenFramework\pageobjects\FilterProductPage.class
+MavenFramework\abstractcomponents\AbstractComponents.class
+MavenFramework\pageobjects\OrdersPage.class
